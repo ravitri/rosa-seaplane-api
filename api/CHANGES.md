@@ -1,5 +1,10 @@
 # Changes
 
+## 0.1.27 Oct 31 2026
+
+
+
+
 ## 0.1.26 Oct 29 2026
 
 - feat(api): support HCP custom DNS domains
